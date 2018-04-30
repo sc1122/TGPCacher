@@ -1,6 +1,6 @@
 // A set of javascript functions that saves a .txt file to a cache
 // Note that files are cached in local storage for the purposes of this exercise
-// Code is uploaded to the following gitHub repository: 
+// Code is uploaded to the following gitHub repository: https://github.com/sc1122/TGPCacher
 
 
 // id; id portion of the file, as a string
